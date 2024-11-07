@@ -11,13 +11,15 @@ const myServer = http.createServer((req, res) => {
     const myUrl = url.parse(req.url)
     console.log(myUrl)
     fs.appendFile("log.text", log, (err, data) => {})
-    // res.end("Hello from server Again")
+    res.end("Hello from server Again")
+
     switch(myUrl.pathname){
         case "/" : res.end("Home page")
         break
         case '/about' : res.end("i am shashwat mishra")
         break
         default : res.end("404 Not Found")
-    }}
+    }
+    }
 )
 myServer.listen(7000, () => console.log("server Started!......"))

@@ -1,0 +1,112 @@
+[
+        {
+            "name": "Shashwat",
+            "age": 24,
+            "qualification": "B.Tech",
+            "details": {
+                "email": "shashwat@example.com",
+                "phone": "9876543210",
+                "city": "Delhi",
+                "occupation": "Software Developer"
+            }
+        },
+        {
+            "name": "Aarav",
+            "age": 28,
+            "qualification": "M.Tech",
+            "details": {
+                "email": "aarav@example.com",
+                "phone": "9876543211",
+                "city": "Mumbai",
+                "occupation": "Data Scientist"
+            }
+        },
+        {
+            "name": "Vani",
+            "age": 22,
+            "qualification": "B.Com",
+            "details": {
+                "email": "vani@example.com",
+                "phone": "9876543212",
+                "city": "Bangalore",
+                "occupation": "Accountant"
+            }
+        },
+        {
+            "name": "Isha",
+            "age": 27,
+            "qualification": "MBA",
+            "details": {
+                "email": "isha@example.com",
+                "phone": "9876543213",
+                "city": "Hyderabad",
+                "occupation": "Marketing Manager"
+            }
+        },
+        {
+            "name": "Rohan",
+            "age": 25,
+            "qualification": "B.Sc",
+            "details": {
+                "email": "rohan@example.com",
+                "phone": "9876543214",
+                "city": "Chennai",
+                "occupation": "Research Analyst"
+            }
+        },
+        {
+            "name": "Meera",
+            "age": 26,
+            "qualification": "MCA",
+            "details": {
+                "email": "meera@example.com",
+                "phone": "9876543215",
+                "city": "Pune",
+                "occupation": "Software Engineer"
+            }
+        },
+        {
+            "name": "Karan",
+            "age": 29,
+            "qualification": "M.Sc",
+            "details": {
+                "email": "karan@example.com",
+                "phone": "9876543216",
+                "city": "Kolkata",
+                "occupation": "Project Manager"
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 23,
+            "qualification": "B.A",
+            "details": {
+                "email": "sara@example.com",
+                "phone": "9876543217",
+                "city": "Delhi",
+                "occupation": "Content Writer"
+            }
+        },
+        {
+            "name": "Aditya",
+            "age": 30,
+            "qualification": "PhD",
+            "details": {
+                "email": "aditya@example.com",
+                "phone": "9876543218",
+                "city": "Mumbai",
+                "occupation": "Professor"
+            }
+        },
+        {
+            "name": "Priya",
+            "age": 24,
+            "qualification": "B.E",
+            "details": {
+                "email": "priya@example.com",
+                "phone": "9876543219",
+                "city": "Bangalore",
+                "occupation": "Mechanical Engineer"
+            }
+        }
+    ]

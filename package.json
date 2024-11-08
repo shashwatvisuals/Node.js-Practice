@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node httpServer/index.js",
+    "start": "nodemon expressJs/1stExpressServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
+    "express": "^4.21.1",
     "nodemon": "^3.1.7",
     "url": "^0.11.4"
   }

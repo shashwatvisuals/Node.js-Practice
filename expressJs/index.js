@@ -46,6 +46,8 @@ server.patch('/', auth ,(req, res) => {
     res.json({type:'PATCH'})
 })
 
+//API - Endpoint - Route
+
 
 
 
@@ -55,6 +57,9 @@ server.get('/demo', (req, res) => {
 
     // res.sendFile("absolute directory")
 })
+
+
+
 
 
 

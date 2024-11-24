@@ -10,4 +10,5 @@ const { router } = require("./routes/product");
 server.use("/data",router);
 server.listen(PORT , () => {
     console.log("server started.......")
+    console.log("server is running")
 })

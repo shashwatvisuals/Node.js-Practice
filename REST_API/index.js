@@ -11,4 +11,8 @@ server.use("/data",router);
 server.listen(PORT , () => {
     console.log("server started.......")
     console.log("server is running")
+    console.log("server is running")
+    console.log("server is running")
+    console.log("server is running")
+    console.log("server is running")
 })
